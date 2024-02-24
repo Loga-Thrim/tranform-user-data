@@ -1,0 +1,15 @@
+{
+  "firstName": "",
+  "lastName": "",
+  "gender": "",
+  "age": null,
+  "hair": {
+    "color": ""
+  },
+  "address": {
+    "postalCode": ""
+  },
+  "company": {
+    "department": ""
+  }
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "gender": "male",
+    "age": 30,
+    "hair": { "color": "brown" },
+    "address": { "postalCode": "12345" },
+    "company": { "department": "engineering" }
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "gender": "female",
+    "age": 25,
+    "hair": { "color": "blonde" },
+    "address": { "postalCode": "67890" },
+    "company": { "department": "sales" }
+  },
+  {
+    "firstName": "Jim",
+    "lastName": "Smith",
+    "gender": "male",
+    "age": 35,
+    "hair": { "color": "black" },
+    "address": { "postalCode": "24680" },
+    "company": { "department": "engineering" }
+  },
+  {
+    "firstName": "Joan",
+    "lastName": "Williams",
+    "gender": "female",
+    "age": 28,
+    "hair": { "color": "red" },
+    "address": { "postalCode": "13579" },
+    "company": { "department": "marketing" }
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Brown",
+    "gender": "male",
+    "age": 32,
+    "hair": { "color": "brown" },
+    "address": { "postalCode": "97531" },
+    "company": { "department": "sales" }
+  },
+  {
+    "firstName": "Loga",
+    "lastName": "Thrim",
+    "gender": "male",
+    "age": 22,
+    "hair": { "color": "orange" },
+    "address": { "postalCode": "65140" },
+    "company": { "department": null }
+  }
+]

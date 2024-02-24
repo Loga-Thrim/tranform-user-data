@@ -11,5 +11,5 @@ You can test the API on ``` /get-user ``` using **GET** method.
 
 ### Run test
 ```
-np, run test
+npm run test
 ```
